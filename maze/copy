@@ -1,0 +1,2 @@
+cp /media/$1/maze/*.c /home/oleg/maze
+cp /media/$1/maze/*.h /home/oleg/maze
