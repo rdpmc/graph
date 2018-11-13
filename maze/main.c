@@ -1,3 +1,14 @@
+#include <GL/glut.h>
+#include <GL/gl.h>
+#include <GL/glu.h>
+#include <GL/glext.h>
+#include <unistd.h>
+#include <math.h>
+#include <time.h>
+#include <stdlib.h>
+#include <string.h>
+#include <stdio.h>
+
 #include "include.h"
 
 /** Vars **/
